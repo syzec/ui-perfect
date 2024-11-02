@@ -1,5 +1,4 @@
 # ui-perfect
 
-This is free version of Lаmpа stуle interface and trailers.
+This is free version of Lаmpа stуle interface.
 - ui.js - style interface
-- trailers.js - trailers for Lаmpa

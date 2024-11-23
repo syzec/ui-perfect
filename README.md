@@ -1,4 +1,5 @@
 # ui-perfect
 
-This is free version of Lаmpа stуle interface.
+This is free versions of Lаmpа plugins.
 - ui.js - style interface
+- showfree.js - shоwy without authorization
